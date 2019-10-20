@@ -57,5 +57,4 @@ public class Album {
                 ", songs=" + songs +
                 '}';
     }
-    // public Album
 }
