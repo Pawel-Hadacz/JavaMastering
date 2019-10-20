@@ -7,16 +7,17 @@ import java.util.Queue;
 public class Line {
     public static String WhoIsNext(String[] names, int n)
     {
+
         LinkedList<String> kolejka = new LinkedList<>();
         for(int i = 0;i<names.length;i++){
             kolejka.add(names[i]);
         }
         for(int j = 0;j<n;j++){
             String peek = kolejka.peek();
-            kolejka.clear();
-            kolejka.add(peek);
-            kolejka.add(peek);
-            kolejka.remove(peek);
+
+                kolejka.add(peek);
+                kolejka.add(peek);
+                kolejka.remove(peek);
 
         }
         System.out.println(kolejka);

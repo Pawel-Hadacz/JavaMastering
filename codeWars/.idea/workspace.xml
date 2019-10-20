@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec24ecd-fead-43a5-995a-21efff30154c" name="Default Changelist" comment="" />
+    <list default="true" id="0ec24ecd-fead-43a5-995a-21efff30154c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/mastering/repetition/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/mastering/repetition/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/mastering/repetition/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/mastering/repetition/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/repetition/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/repetition/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mastering/repetition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/repetition/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +27,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QehNE2Pn7Yg0wcHnuhxxw3ixV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -85,10 +99,22 @@
       <workItem from="1570629594341" duration="614000" />
       <workItem from="1571181759229" duration="53000" />
       <workItem from="1571184294432" duration="42000" />
+      <workItem from="1571255042869" duration="2795000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
