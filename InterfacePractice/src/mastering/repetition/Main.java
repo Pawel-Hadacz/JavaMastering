@@ -16,6 +16,7 @@ public class Main {
         saveObject(Tomek);
         loadObject(Tomek);
         System.out.println(Tomek);
+        System.out.println("chyba git");
     }
     public static ArrayList<String> readValues(){
         ArrayList<String> values = new ArrayList<>();
