@@ -32,7 +32,8 @@ public class DeskPhone implements  ITelephone{
             isRinging = true;
             System.out.println("Ring ring");
         }else{
-        return false;
+        isRinging = false;
+            System.out.println("not ring ring");
     }
         return isRinging;
     }
