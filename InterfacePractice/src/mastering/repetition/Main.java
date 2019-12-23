@@ -7,6 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
     Player Tomek = new Player("Tomek", 10,15);
+
+
         System.out.println(Tomek);
         saveObject(Tomek);
 
@@ -14,9 +16,14 @@ public class Main {
         System.out.println(Tomek);
         Tomek.setWeapon("Axe");
         saveObject(Tomek);
-        loadObject(Tomek);
+       // loadObject(Tomek);
         System.out.println(Tomek);
         System.out.println("chyba git");
+        System.out.println("-----------------------------------------");
+        ISaveable Goblin = new Monster("Goblin", 10 ,10);
+        System.out.println(Goblin);
+        System.out.println(((Monster) Goblin).getStrength());
+        saveObject(Goblin);
     }
     public static ArrayList<String> readValues(){
         ArrayList<String> values = new ArrayList<>();

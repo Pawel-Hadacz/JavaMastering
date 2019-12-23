@@ -2,6 +2,8 @@ package mastering.repetition;
 
 import org.w3c.dom.Node;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -65,12 +67,12 @@ public class Main {
       // System.out.println(BouncingBall.bouncingBall(3.0, 0.66, 1.5));
       //  System.out.println(BouncingBall.bouncingBall(30.0, 0.66, 1.5));
      //   System.out.println(BouncingBall.bouncingBall(2.0, 0.5, 1));
-        String[] names = new String[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" };
+        /*String[] names = new String[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" };
         System.out.println(Line.WhoIsNext(names,1));
         System.out.println(Line.WhoIsNext(names,3));
         //System.out.println(Line.WhoIsNext(names,723070295));
         System.out.println(Line.WhoIsNext(names,52));
-        System.out.println(Line.WhoIsNext(names,555));
+        System.out.println(Line.WhoIsNext(names,555));*/
         //System.out.println(Line.WhoIsNext(names,723070291));
 
         //int result = new LoopInspector().loopSize(list);
@@ -78,5 +80,9 @@ public class Main {
         /*System.out.println( Greed.greedy(new int[]{1,1,1,3,5}));
         System.out.println(Greed.greedy(new int[]{2,4,4,5,4}));
         System.out.println(Greed.greedy(new int[]{1,1,1,3,1}));*/
+
+
+        System.out.println(Arrays.toString(EnoughIsEnough.deleteNth(new int[]{1, 2, 3, 1, 1, 2, 1, 2, 3, 3, 2, 4, 5, 3, 1}, 3)));
+
     }
 }

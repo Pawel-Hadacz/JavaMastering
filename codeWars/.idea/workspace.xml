@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec24ecd-fead-43a5-995a-21efff30154c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/mastering/repetition/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/mastering/repetition/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/mastering/repetition/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/mastering/repetition/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/mastering/repetition/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/mastering/repetition/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacePractice/src/mastering/repetition/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mastering/repetition/EnoughIsEnough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfacePractice/out/production/InterfacePractice/mastering/repetition/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfacePractice/out/production/InterfacePractice/mastering/repetition/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfacePractice/src/mastering/repetition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfacePractice/src/mastering/repetition/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Line.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codeWars/mastering/repetition/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mastering/repetition/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/repetition/Line.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mastering/repetition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mastering/repetition/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,6 +101,8 @@
       <workItem from="1571181759229" duration="53000" />
       <workItem from="1571184294432" duration="42000" />
       <workItem from="1571255042869" duration="2795000" />
+      <workItem from="1571826145171" duration="6519000" />
+      <workItem from="1571946188293" duration="22000" />
     </task>
     <servers />
   </component>
@@ -111,7 +114,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
